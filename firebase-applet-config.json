@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSy-PLACEHOLDER-KEY",
+  "authDomain": "acousticpro-erp.firebaseapp.com",
+  "projectId": "acousticpro-erp",
+  "storageBucket": "acousticpro-erp.appspot.com",
+  "messagingSenderId": "1234567890",
+  "appId": "1:1234567890:web:abcdef123456",
+  "measurementId": "G-ABCDEF1234",
+  "firestoreDatabaseId": "(default)"
+}
